@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "src": "/saajan",
+      "dest": "testtest.com/$1"
+ }
+  ]
+}
